@@ -5,6 +5,7 @@
 $title = "Add New Cashier";
 require "../global/head.php";
 ?>
+<!--  -->
 
 <body>
    <div class="con-bg container-fluid vh-100">
